@@ -9,7 +9,7 @@
 
     "content_scripts": [
         {
-        "matches": ["https://www.google.com/*"],
+        "matches": ["https://staging.theculturetrip.com/*"],
         "css": ["styles.css"],
         "js": ["scripts.js"]
         }
